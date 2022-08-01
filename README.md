@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...CSS/SASS | JavaScript/TypeScript | React.js | Algorithms.......
 - 🌱 I’m currently learning ...TypeScript
 - 💞️ I’m looking to collaborate on ... Projects
-- 📫 How to reach me ... linkedin/in/agu-chukwuemeka-v or Twitter via @AGUCHUKWUEMEK19
+- 📫 How to reach me ... linkedin/in/AguChukwuemekaV or Twitter via @AGUCHUKWUEMEK19
 - 
 
 <!---
