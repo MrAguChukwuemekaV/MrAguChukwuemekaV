@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrAguChukwuemekaV
-- 👀 I’m interested in ...CSS/SASS | JavaScript/TypeScript | React.js | Algorithms.......
+- 👀 I’m interested in ...CSS/SASS | JavaScript/TypeScript | React.js | Algorithms | AWS |.......
 - 🌱 I’m currently learning ...TypeScript
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... linkedin/in/AguChukwuemekaV or Twitter via @AGUCHUKWUEMEK19
